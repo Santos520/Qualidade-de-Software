@@ -55,12 +55,15 @@ Sim. Um sistema pode implementar todas as funcionalidades solicitadas e ainda ap
 
 ## 5. Uso de inteligência artificial
 
-**Ferramenta utilizada:**
+Ferramenta utilizada:
+
 ChatGPT.
 
-**Como foi utilizada:**
-Foi utilizada como apoio para organizar as respostas da atividade, revisar a redação e relacionar a funcionalidade observada no LocalEats aos conceitos de qualidade de software.
+Como foi utilizada:
 
-**Como as respostas foram verificadas:**
-As respostas foram verificadas comparando-as com as orientações da atividade e com o comportamento observado diretamente na aplicação LocalEats. As evidências foram obtidas por meio de capturas de tela durante a exploração da aplicação. Os resultados descritos na Tarefa 2 correspondem aos comportamentos observados durante os testes realizados.
+Foi utilizada apenas como ferramenta de apoio para organizar e revisar a redação das respostas. A análise da aplicação LocalEats, a identificação dos problemas, a realização dos testes, a interpretação dos resultados e a definição das respostas da atividade foram realizadas por mim.
+
+Como as respostas foram verificadas:
+
+As respostas foram verificadas por mim com base nas orientações da atividade e na análise direta da aplicação LocalEats. As evidências foram obtidas por meio de capturas de tela durante a exploração e os testes realizados na aplicação. Os resultados apresentados na atividade correspondem às observações feitas durante esses testes.
 
